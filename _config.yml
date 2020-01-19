@@ -2,11 +2,11 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: MIS Portfolios
+title: David Liao
 # Edit next line, replacing 'techfolios' with your github username
-url: "https://dport96.github.io"
+url: "https://levid24.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
-baseurl: "/mis-portfolios"
+baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
